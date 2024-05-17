@@ -161,7 +161,7 @@ ol {
 
 .search-form__submit-button {
   align-self: flex-end;
-  width: 192px;
+  width: 194px;
 }
 
 .content__details {
@@ -267,7 +267,7 @@ ol {
   font-family: "Fira Sans Condensed", sans-serif;
   font-size: 18px;
   font-weight: 700;
-  padding: 3px 0;
+  padding: 4px 0;
   color: #fff;
   background: none;
   border: 1px solid currentColor;
